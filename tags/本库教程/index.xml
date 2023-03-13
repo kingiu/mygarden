@@ -2,7 +2,16 @@
 我的理解 Atlas意思是地图集。
 Dataviews专门放各类数据聚合查询的结果。其实有很多专门化定制化的插件可以做更多事儿，但由于笔记量少，现在对dataview的依赖度还没那么高，先用着，静观其变。 单个案例或项目的MOC，考虑直接放在对应文件夹里面，相当于起到一个个文件夹的readme和导览的作用。这里专门放这些MOC的MOC。目前我的笔记还不丰富，所以把某个子主题的MOC都直接放在对应文件夹里面了，这样也方便基于该MOC新建文件。随着规模扩大，这里的MOC的MOC应该会有用武之地。
 原文解释 An Atlas is a &amp;ldquo;map of maps&amp;rdquo;.
-The Atlas folder contains your Maps of Content (MOCs).</description></item><item><title>About DB folders</title><link>https://guozhi.3hmy.cn/About-DB-folders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/About-DB-folders/</guid><description>相比于dataview，可以批量编辑，具备更好的灵活度。 相比于markdown 表格，编辑更方便，但每行数据都需要创建一个md文件，且失去了该文件的反向链接数据。</description></item><item><title>About Extras</title><link>https://guozhi.3hmy.cn/About-Extras/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/About-Extras/</guid><description>up:: [[ACCESS 笔记组织法]]
+The Atlas folder contains your Maps of Content (MOCs).</description></item><item><title>About Calendar</title><link>https://guozhi.3hmy.cn/About-Calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/About-Calendar/</guid><description>up:: [[ACCESS 笔记组织法]]
+x:: [[» Daily notes工作流]]
+我的理解 以时间和日期为依托的笔记都放Calendar文件夹下，以便将来回顾笔记时，有时间线索作为依据。
+原文解释 This folder called &amp;ldquo;Calendar&amp;rdquo; is mostly empty because this is just a starter kit and my daily notes are personal.</description></item><item><title>About Cards</title><link>https://guozhi.3hmy.cn/About-Cards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/About-Cards/</guid><description>up:: [[ACCESS 笔记组织法]]
+我的理解 虽然叫[[永久笔记]]permanent note，但个人理解其实更贴切的翻译是常青笔记evergreen note。一来，根据形式，和[[闪念笔记]]与[[文献笔记]]区分开。二来，根据目的，它是永恒且发展的，能为将来所用的永久笔记。
+暂时先把日常片段式的思考和闪念，以短小的[[卡片笔记]]的方式，直接丢到这里，不强调文件夹分类，而是尝试通过特殊文件名、标签和链接等方式，让这些笔记具备可发现性，更容易被将来的自己找到。
+总而言之，就是悬而未定的但已经有所思考的零散笔记，就丢这里面，期待将来逐步被发现，被结构化，被整理。
+这里的[[MOC]]是事后总结归纳，不强调完备性。
+一些临时的，pending的又不舍得删除的笔记先放到Pending文件夹里，等以后再处理。
+原文解释 The cards folder is one of my favorite places because it hasumami.</description></item><item><title>About DB folders</title><link>https://guozhi.3hmy.cn/About-DB-folders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/About-DB-folders/</guid><description>相比于dataview，可以批量编辑，具备更好的灵活度。 相比于markdown 表格，编辑更方便，但每行数据都需要创建一个md文件，且失去了该文件的反向链接数据。</description></item><item><title>About Extras</title><link>https://guozhi.3hmy.cn/About-Extras/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/About-Extras/</guid><description>up:: [[ACCESS 笔记组织法]]
 [[图片保存：图床or本地]]
 原文解释 Think of the Extras folder as the toolbox for your notes.
 These notessupportyour other notes.</description></item><item><title>About Spaces</title><link>https://guozhi.3hmy.cn/About-Spaces/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/About-Spaces/</guid><description>up:: [[ACCESS 笔记组织法]]

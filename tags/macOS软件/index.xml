@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>macOS软件 on</title><link>https://guozhi.3hmy.cn/tags/macOS%E8%BD%AF%E4%BB%B6/</link><description>Recent content in macOS软件 on</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://guozhi.3hmy.cn/tags/macOS%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml"/><item><title>Alfred</title><link>https://guozhi.3hmy.cn/Alfred/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/Alfred/</guid><description>其他竞品：[[uTools]]，[[go]]
+workflow 调用过程 不同 workflow 可能用本地的/usr/local/php，python，python3 等二进制，所以需要再手动安装这些二进制依赖环境。
+##alfred搜索失败后的 fallback 需要搜索哪几个，优先级分别是什么
+alfred 的综合调教 依据 [[个人查找搜索系统#搜索判断树]] 改造和聚合
+高速缓存聚合：[[Devonthink]]
+知识：谷歌
+知识：wiki
+翻译：谷歌翻译
+笔记：[[Onenote]]</description></item><item><title>App Cleaner &amp; Uninstaller PRO</title><link>https://guozhi.3hmy.cn/App-Cleaner-Uninstaller-PRO/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/App-Cleaner-Uninstaller-PRO/</guid><description/></item><item><title>bilibili</title><link>https://guozhi.3hmy.cn/bilibili/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/bilibili/</guid><description/></item><item><title>Burp suite</title><link>https://guozhi.3hmy.cn/Burp-suite/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/Burp-suite/</guid><description>网络安全神器之一</description></item><item><title>Cubox</title><link>https://guozhi.3hmy.cn/Cubox/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/Cubox/</guid><description>[[Cubox]]和[[Raindrop]] 的区别:
+cubox 只适合剪藏文章类的网页，并有 [[deeplink]]。[[Raindrop]] 更适合稍后读场景，可以剪藏任何链接，并智能识别普通网页、文章或视频。</description></item><item><title>Edge</title><link>https://guozhi.3hmy.cn/Edge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/Edge/</guid><description>使用频率:: 5
+作用:: 翻墙搜索，多端同步
+评价:: 5</description></item><item><title>Fig</title><link>https://guozhi.3hmy.cn/Fig/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/Fig/</guid><description>3 个插件必装
+Autocomplete
+Oh My Zsh
+Spaceship</description></item><item><title>Goland</title><link>https://guozhi.3hmy.cn/Goland/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/Goland/</guid><description/></item><item><title>GreenHub</title><link>https://guozhi.3hmy.cn/GreenHub/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/GreenHub/</guid><description>万一墙坏了的时候，可以临时用这个顶一下，每天可以用1小时。</description></item><item><title>Raycast</title><link>https://guozhi.3hmy.cn/Raycast/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/Raycast/</guid><description>作用:: 现代版Alfred，全能快捷助手，mac版的Quicker
+[[raycast deeplink]]
+想法:
+考虑通过raycast自己写一个脚本，聚合搜索全网和自己的资源。网盘，笔记等等。现在还是自己大脑初次筛选，然后找指定地方去搜索，如果搜不到再换软件，显得不那么高效。</description></item><item><title>Typora</title><link>https://guozhi.3hmy.cn/Typora/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/Typora/</guid><description/></item><item><title>uTools</title><link>https://guozhi.3hmy.cn/uTools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guozhi.3hmy.cn/uTools/</guid><description/></item></channel></rss>
