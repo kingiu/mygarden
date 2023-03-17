@@ -12,8 +12,8 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/kingiu/
-enableSemanticSearch: true
-operandApiKey: "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"
+enableSemanticSearch: fals
+operandApiKey: "aaa-bbb-ccc-ddd"
 description:
   😊obsidian🌸知识花园🌸
 page_title:
