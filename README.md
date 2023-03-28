@@ -1,13 +1,19 @@
-# 项目介绍
-作用
-> 将markdown文档作为知识库，类似于obsidian中的知识库联结结构，来作为一个在线知识库。阅读和查询都比较不错，但是不适合做博客，因为知识库内容量巨大。
-此项目由oldwinter的项目二次修改得到。
-对基本的一些文件以及配置进行了初始化，方便了部署以及一些功能的基本配置。
-可以参考我的-[ob](ob.tianzhongs.ml)-进行配置
-                          
+# Quartz
 
+Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
+1. Extremely fast natural-language search
+2. Customizable and hackable design based on Hugo
+3. Automatically generated backlinks, link previews, and local graph
+4. Built-in CJK + Latex Support and Admonition-style callouts
+5. Support for both Markdown Links and Wikilinks
 
+Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
 
-我看下更新了没有
-vvv
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+
+🔗 Get Started: https://quartz.jzhao.xyz/
+
+![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+
+[Join the Discord Community](https://discord.gg/cRFFHYye7t)
