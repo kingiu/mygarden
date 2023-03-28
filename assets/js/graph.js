@@ -203,7 +203,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .style('font-size', bigFont+'em')
         .attr('dy', d => nodeRadius(d) + 20 + 'px') // radius is in px
     })
-
     .on("mouseleave", function (_, d) {
       d3.selectAll(".node").transition().duration(200).attr("fill", color)
 
@@ -211,7 +210,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       const linkNodes = d3
         .selectAll(".link")
         .filter((d) => d.source.id === currentId || d.target.id === currentId)
-        
+
       linkNodes.transition().duration(200).attr("stroke", "var(--g-link)")
 
       d3.select(this.parentNode)
@@ -268,4 +267,4 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     node.attr("cx", (d) => d.x).attr("cy", (d) => d.y)
     labels.attr("x", (d) => d.x).attr("y", (d) => d.y)
   })
-    }
+}
