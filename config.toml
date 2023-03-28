@@ -1,6 +1,6 @@
-baseURL = "https://guozhi.3hmy.cn/"  #需要进行配置成你的网站域名，此处配置了才可以使用搜索功能
-languageCode = "zh-cn" #此处可选，在i18n文件中选择 中文
-googleAnalytics = "G-11MD77L81V"
+baseURL = "https://elaraks.github.io/dampcapital/"
+languageCode = "en-us"
+googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
@@ -28,7 +28,7 @@ enableGitInfo = true
         lineNumbersInTable = true
         style = "dracula"
     [frontmatter]
-        lastmod = ["date modified","lastmod", ":git", "date", "publishDate"]
-        publishDate = ["date created","publishDate", "date"]
+        lastmod = ["lastmod", ":git", "date", "publishDate"]
+        publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true

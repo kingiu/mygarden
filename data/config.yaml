@@ -1,24 +1,22 @@
-name: guozhi   #自己配置
+name: Elara Shurety
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
-enableSPA: false
+enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: false
-GitHubLink: https://github.com/kingiu/
+enableGitHubEdit: true
+GitHubLink: https://github.com/elaraks/dampcapital/tree/hugo/content
 enableSemanticSearch: false
-operandApiKey: "xlg5src52kpv1h1v7564xonjedxjxmzn"
-operandIndexId: "s0kf3bd6tldw"
-description:
-  😊obsidian🌸知识花园🌸
-page_title:
-  "guozhi's🌿知识花园"
-links:   #以下部分自己设置
-  - link_name: Email  
-    link: 87281736@qq.com
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description: 
+    Housing conditions as accumulative disposession.
+page_title: 
+    "Damp capital"
+favicon:
+  - { rel: "shortcut icon", href: "map.png", type: "image/png" }
